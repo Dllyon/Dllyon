@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Debora
 #### I am Graduated in Information Systems
-![I am Graduated in Information Systems](https://scontent.fcgh7-1.fna.fbcdn.net/v/t39.30808-6/275331334_482049520073141_5837718659680056445_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=e3f864&_nc_ohc=yIoDL0FGgsQAX8CgRJr&_nc_ht=scontent.fcgh7-1.fna&oh=00_AT-1ZYorVJbZahsSwxtq0SyeRNyt6vvYe7Il-aC1RHSbCg&oe=6229365E)
+![I am Graduated in Information Systems](https://scontent.fcgh7-1.fna.fbcdn.net/v/t39.30808-6/275348836_482098456734914_3821873713156973228_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=e3f864&_nc_ohc=XbexOJSbGhsAX_YYDxT&tn=1g1bIZeSZ8cqY5C_&_nc_ht=scontent.fcgh7-1.fna&oh=00_AT_NPk_RMftwvk74XLXhVm7mR-Z_zRiaaKwNHEX9UB31lw&oe=6229DD86)
 
 🔭 Atualmnte estou trabalhando em como melhorar o meu desenvolvimento em JacaScript para entrar no mercado de trabalho.
 🌱 Atualmente estou aprendendo JavaScript/CSS/HTML
