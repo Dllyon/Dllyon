@@ -18,9 +18,11 @@ Skills: JS / HTML / CSS / ITIL V3 | Python | Scrum | Photoshop.
   <a href="https://medium.com/@amoradedados"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a> 
 </div> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dllyon)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=dllyon&show_icons=true&count_private=true)  
+<div>
+  <a href="https://github.com/dllyon">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dllyon&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dllyon&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=dllyon)  
 
