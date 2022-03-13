@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is Debora
 #### I am Graduated in Information Systems <!--https://arturssmirnovs.github.io/github-profile-readme-generator/ site de criação da pag -->
-![I am Graduated in Information Systems]
 
 🔭 Atualmnte estou trabalhando em como melhorar o meu desenvolvimento em JacaScript para entrar no mercado de trabalho.
 
