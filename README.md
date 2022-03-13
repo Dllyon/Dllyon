@@ -27,8 +27,6 @@ Skills: JS / HTML / CSS / ITIL V3 | Python | Scrum | Photoshop.
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dllyon&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=dllyon)  
-
 ![GitHub metrics](https://metrics.lecoq.io/dllyon)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=dllyon)  
