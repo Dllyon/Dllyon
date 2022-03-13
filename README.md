@@ -5,6 +5,10 @@
 
 🌱 Atualmente estou aprendendo JavaScript/CSS/HTML
 
+<div>  
+       <img align="left" alt="Rafa-gif" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
+</div> 
+
 Skills: JS / HTML / CSS / ITIL V3 | Python | Scrum | Photoshop.  
 
 
@@ -30,10 +34,5 @@ Skills: JS / HTML / CSS / ITIL V3 | Python | Scrum | Photoshop.
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=dllyon)  
 
 ![Profile views](https://gpvc.arturio.dev/dllyon)  
-
-
-<div>  
-       <img align="rigth" alt="Rafa-gif" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
-</div> 
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
