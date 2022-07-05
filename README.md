@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Debora
 #### I am Graduated in Information Systems <!--https://arturssmirnovs.github.io/github-profile-readme-generator/ site de criação da pag -->
 
-🔭Mais de 12 anos de formação em Tecnologia da Informação, atualmente buscando obter oportunidades na área de Desenvolvimento Web.
+🔭 Mais de 12 anos de formação em Tecnologia da Informação, atualmente buscando obter oportunidades na área de Desenvolvimento Web.
 Busco diariamente formas diferentes de evoluir minhas habilidades, principalmente minhas soft skills e hard skills, não tenho medo do novo e minha paixão é o aprendizado. Sempre usando meu perfil comunicativo durante toda a minha trajetória pessoal e profissional, percebi que tenho gosto de fazer tudo da forma mais dinâmica e prática possível.
 
 
