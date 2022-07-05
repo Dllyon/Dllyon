@@ -1,11 +1,10 @@
 ### Hi there 👋, my name is Debora
 #### I am Graduated in Information Systems <!--https://arturssmirnovs.github.io/github-profile-readme-generator/ site de criação da pag -->
 
-🔭 Mais de 12 anos de formação em Tecnologia da Informação, atualmente buscando obter oportunidades na área de Desenvolvimento Web.
-Busco diariamente formas diferentes de evoluir minhas habilidades, principalmente minhas soft skills e hard skills, não tenho medo do novo e minha paixão é o aprendizado. Sempre usando meu perfil comunicativo durante toda a minha trajetória pessoal e profissional, percebi que tenho gosto de fazer tudo da forma mais dinâmica e prática possível.
+🔭 More than 12 years of training in Information Technology, currently seeking opportunities in the area of ​​Web Development. I look daily for different ways to evolve my skills, especially my soft skills and hard skills, I'm not afraid of the new and my passion is learning. Always using my communicative profile throughout my personal and professional trajectory, I realized that I like to do everything in the most dynamic and practical way possible.
 
 
-🌱 Atualmente estou aprendendo Competências: Angular (Framework) · MySQL · Boot Camp · Spring Boot · Java · Node.js · Bootstrap · CSS · HTML5 · JavaScript. 
+🌱 I am currently learning Skills: Angular (Framework) · MySQL · Boot Camp · Spring Boot · Java · Node.js · Bootstrap · CSS · HTML5 · JavaScript. 
 
 <div>  
        <img align=" items:center" alt="Dllyon-gif" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
