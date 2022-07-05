@@ -4,7 +4,7 @@
 🔭 More than 12 years of training in Information Technology, currently seeking opportunities in the area of ​​Web Development. I look daily for different ways to evolve my skills, especially my soft skills and hard skills, I'm not afraid of the new and my passion is learning. Always using my communicative profile throughout my personal and professional trajectory, I realized that I like to do everything in the most dynamic and practical way possible.
 
 
-🌱 I am currently learning Skills: Full stack development (bootcamp)
+🌱 I am currently learning skills: Full stack development (bootcamp)
 
 <div>  
        <img align=" items:center" alt="Dllyon-gif" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
